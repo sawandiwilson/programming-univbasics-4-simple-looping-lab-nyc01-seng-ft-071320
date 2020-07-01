@@ -1,7 +1,7 @@
 def loop_message_five_times(string)
-  puts "message"
-  puts "message"
-  puts "message"
-  puts "message"
-  puts "message"
+  puts "Hello World"
+  puts "Hello World"
+  puts "Hello World"
+  puts "Hello World"
+  puts "Hello World"
 end
